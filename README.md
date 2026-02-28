@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1472300969118269450/1473010802385490026/image.png?ex=69a3d0f6&is=69a27f76&hm=dd8c5e278017c2bb0eff6d7b22374f55de29b9619988e10bee50bdf016283a9e&=&format=webp&quality=lossless" width="120" alt="TicketTac Logo">
+  <img src="https://media.discordapp.net/attachments/1472300969118269450/1473014024294633615/Copilot_20260127_163050.png?ex=69a3d3f6&is=69a28276&hm=067a5ff7f45b8f960b32d15eee1bee36975cd55cd1833d4657613c79b8164ead&=&format=webp&quality=lossless&width=960&height=960" width="120" alt="TicketTac Logo">
 </p>
 
 <h1 align="center">TicketTac</h1>
