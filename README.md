@@ -30,7 +30,7 @@ TicketTac est un bot Discord moderne conçu pour offrir un système de tickets s
 Il permet aux administrateurs de configurer un support complet sans aucune connaissance technique.
 
 <p align="center">
-  <img src="https://your-banner-image.png" width="85%" alt="TicketTac Banner">
+  <img src="https://media.discordapp.net/attachments/1472300969118269450/1472301030749245564/Capture_decran_2026-02-14_193618.png?ex=69a3deef&is=69a28d6f&hm=ffa5151e7aa3e3cac75ef0c58721436dfc19c8978cc3875da36c3bdde06d6ee7&=&format=webp&quality=lossless" width="85%" alt="TicketTac Banner">
 </p>
 
 ---
@@ -51,7 +51,8 @@ Il permet aux administrateurs de configurer un support complet sans aucune conna
 
 ### 1. Inviter le bot  
 Lien d’invitation :  
-https://your-invite-link.com
+https://discord.com/oauth2/authorize?client_id=1463167433857830922&permissions=8&scope=bot%20applications.commands
+Serveur Discord : https://discord.gg/4ekh27bqVJ
 
 ### 2. Configurer le bot  
 Utilisez la commande suivante :  /configuration
