@@ -1,2 +1,57 @@
-# TicketTac
-TicketTac, le bot discord qui vous permet de configurer vos tickets en moins de 3 minutes depuis votre serveur discord ou sur notre dashboard.
+<!-- ========================================================= -->
+<!--                       T I C K E T T A C                    -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://your-logo-here.png" width="120" alt="TicketTac Logo">
+</p>
+
+<h1 align="center">TicketTac</h1>
+
+<p align="center">Le bot Discord qui vous permet de configurer vos tickets en moins de 3 minutes.</p>
+
+<p align="center">
+  <a href="https://discord.com/oauth2/authorize?client_id=1463167433857830922&permissions=8&scope=bot%20applications.commands">
+    <img src="https://img.shields.io/badge/Inviter%20le%20bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://tickettac.fr/">
+    <img src="https://img.shields.io/badge/Site&Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/TicketTac-discord/TicketTac">
+    <img src="https://img.shields.io/badge/Status-Actif-brightgreen?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## Présentation
+
+TicketTac est un bot Discord moderne conçu pour offrir un système de tickets simple, rapide et professionnel.  
+Il permet aux administrateurs de configurer un support complet sans aucune connaissance technique.
+
+<p align="center">
+  <img src="https://your-banner-image.png" width="85%" alt="TicketTac Banner">
+</p>
+
+---
+
+## Fonctionnalités
+
+- Création de tickets via boutons interactifs  
+- Permissions automatiques pour les rôles support  
+- Catégories multiples  
+- Embeds personnalisables  
+- Logs détaillés  
+- Transcriptions automatiques  
+- Dashboard web (en développement)
+
+---
+
+## Installation
+
+### 1. Inviter le bot  
+Lien d’invitation :  
+https://your-invite-link.com
+
+### 2. Configurer le bot  
+Utilisez la commande suivante :  
