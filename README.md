@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="[https://your-logo-here.png](https://media.discordapp.net/attachments/1472300969118269450/1473010802385490026/image.png?ex=69a3d0f6&is=69a27f76&hm=dd8c5e278017c2bb0eff6d7b22374f55de29b9619988e10bee50bdf016283a9e&=&format=webp&quality=lossless)" width="120" alt="TicketTac Logo">
+  <img src="https://media.discordapp.net/attachments/1472300969118269450/1473010802385490026/image.png?ex=69a3d0f6&is=69a27f76&hm=dd8c5e278017c2bb0eff6d7b22374f55de29b9619988e10bee50bdf016283a9e&=&format=webp&quality=lossless" width="120" alt="TicketTac Logo">
 </p>
 
 <h1 align="center">TicketTac</h1>
@@ -54,4 +54,4 @@ Lien d’invitation :
 https://your-invite-link.com
 
 ### 2. Configurer le bot  
-Utilisez la commande suivante :  
+Utilisez la commande suivante :  /configuration
